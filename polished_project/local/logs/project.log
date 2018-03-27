@@ -1,0 +1,53 @@
+2018-03-27T08:24:57.692Z - normal: Load ~/.CocosCreator/settings.json
+2018-03-27T08:24:57.698Z - normal: checking language setting...
+2018-03-27T08:24:57.699Z - normal: Language: zh
+2018-03-27T08:25:01.181Z - success: protocol editor-framework registered
+2018-03-27T08:25:01.181Z - success: protocol app registered
+2018-03-27T08:25:01.181Z - success: protocol theme registered
+2018-03-27T08:25:01.181Z - success: protocol packages registered
+2018-03-27T08:25:01.181Z - success: protocol unpack registerred
+2018-03-27T08:25:01.181Z - success: protocol disable-commonjs registerred
+2018-03-27T08:25:01.961Z - normal: connected!
+2018-03-27T08:25:01.968Z - normal: Check project C:\Users\Administrator\Desktop\polished_project
+2018-03-27T08:25:01.978Z - normal: Initializing Cocos2d
+2018-03-27T08:25:03.500Z - normal: Initializing Asset Database
+2018-03-27T08:25:03.548Z - success: protocol uuid registerred
+2018-03-27T08:25:03.549Z - success: protocol db registerred
+2018-03-27T08:25:03.549Z - success: protocol thumbnail registerred
+2018-03-27T08:25:03.550Z - normal: Loading editor/builtin packages
+2018-03-27T08:25:03.575Z - success: anysdk loaded
+2018-03-27T08:25:03.728Z - success: assets loaded
+2018-03-27T08:25:03.731Z - success: builder loaded
+2018-03-27T08:25:03.734Z - success: cocos-analytics loaded
+2018-03-27T08:25:03.738Z - success: console loaded
+2018-03-27T08:25:03.742Z - success: hierarchy loaded
+2018-03-27T08:25:03.746Z - success: inspector loaded
+2018-03-27T08:25:03.748Z - success: keystore loaded
+2018-03-27T08:25:03.751Z - success: node-library loaded
+2018-03-27T08:25:03.753Z - success: package-asset loaded
+2018-03-27T08:25:03.755Z - success: preferences loaded
+2018-03-27T08:25:03.757Z - success: project-exporter loaded
+2018-03-27T08:25:03.776Z - success: project-importer loaded
+2018-03-27T08:25:03.779Z - success: project-settings loaded
+2018-03-27T08:25:03.782Z - success: ui-kit loaded
+2018-03-27T08:25:03.784Z - success: ui-grid loaded
+2018-03-27T08:25:03.787Z - success: scene loaded
+2018-03-27T08:25:03.791Z - success: sprite-editor loaded
+2018-03-27T08:25:03.795Z - success: store loaded
+2018-03-27T08:25:03.801Z - success: timeline loaded
+2018-03-27T08:25:03.801Z - normal: Loading builtin packages
+2018-03-27T08:25:03.804Z - success: asset-db-debugger loaded
+2018-03-27T08:25:03.806Z - success: code-editor loaded
+2018-03-27T08:25:03.807Z - success: color-picker loaded
+2018-03-27T08:25:03.810Z - success: package-manager loaded
+2018-03-27T08:25:03.814Z - success: sdkbox loaded
+2018-03-27T08:25:03.819Z - success: tester loaded
+2018-03-27T08:25:03.821Z - success: ui-kit-preview-extra loaded
+2018-03-27T08:25:03.823Z - success: ui-kit-preview loaded
+2018-03-27T08:25:03.825Z - success: ui-tree loaded
+2018-03-27T08:25:05.266Z - normal: Initializing project C:\Users\Administrator\Desktop\polished_project
+2018-03-27T08:25:05.275Z - normal: Loading packages
+2018-03-27T08:25:05.281Z - normal: Watching packages
+2018-03-27T08:25:05.298Z - normal: Run Application
+2018-03-27T08:25:09.731Z - success: preview server running at http://localhost:7456
+2018-03-27T08:25:18.661Z - normal: 1.8.2
